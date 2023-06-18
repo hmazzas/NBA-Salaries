@@ -1,6 +1,17 @@
 # NBA Salaries
 This project aims to develop a regression model to predict NBA players' salaries based on their regular season stats from the 2022/2023 season.
 
+## Tools and Libraries Used
+The project relied on the following tools and libraries:
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn (Regression Models)
+
 ## Data Collection
 The data was collected from two different sources. Firstly, the players' salaries (Cap Hit) were scraped from an HTML table on the ESPN website. Then, the "Balls Don't Lie" API was utilized to retrieve season stats for each player.
 
